@@ -1,0 +1,268 @@
+{
+  "tracker": [
+    {
+      "background_img": "",
+      "developer_avatar": ""
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Walking in the park",
+      "date": "2021-08-26",
+      "assigned": true,
+      "assignedTo": "Maybe Later",
+      "priority": 2
+    },
+    {
+      "id": 4,
+      "text": "Walking in the park",
+      "date": "2021-08-26",
+      "assigned": true,
+      "assignedTo": "Maybe Later",
+      "priority": 2
+    },
+    {
+      "id": 8,
+      "text": "DISHES",
+      "date": "2021-08-25",
+      "assigned": true,
+      "assignedTo": "Hei God",
+      "priority": 4
+    },
+    {
+      "id": 9,
+      "text": "Jogging",
+      "date": "2021-08-27",
+      "assigned": true,
+      "assignedTo": "omo",
+      "priority": 3
+    },
+    {
+      "id": 10,
+      "text": "Walking in the park",
+      "date": "2021-08-26",
+      "assigned": true,
+      "assignedTo": "Maybe Later",
+      "priority": 2
+    },
+    {
+      "id": 11,
+      "text": "DISHES",
+      "date": "2021-08-25",
+      "assigned": true,
+      "assignedTo": "Hei God",
+      "priority": 4
+    },
+    {
+      "id": 12,
+      "text": "Jogging",
+      "date": "2021-08-27",
+      "assigned": true,
+      "assignedTo": "omo",
+      "priority": 3
+    },
+    {
+      "id": 13,
+      "text": "Walking in the park",
+      "date": "2021-08-26",
+      "assigned": true,
+      "assignedTo": "Maybe Later",
+      "priority": 2
+    },
+    {
+      "id": 14,
+      "text": "DISHES",
+      "date": "2021-08-25",
+      "assigned": true,
+      "assignedTo": "Hei God",
+      "priority": 4
+    },
+    {
+      "id": 15,
+      "text": "Jogging",
+      "date": "2021-08-27",
+      "assigned": true,
+      "assignedTo": "omo",
+      "priority": 3
+    },
+    {
+      "id": 16,
+      "text": "Walking in the park",
+      "date": "2021-08-26",
+      "assigned": true,
+      "assignedTo": "Maybe Later",
+      "priority": 2
+    },
+    {
+      "id": 17,
+      "text": "DISHES",
+      "date": "2021-08-25",
+      "assigned": true,
+      "assignedTo": "Hei God",
+      "priority": 4
+    },
+    {
+      "id": 18,
+      "text": "Jogging",
+      "date": "2021-08-27",
+      "assigned": true,
+      "assignedTo": "omo",
+      "priority": 3
+    },
+    {
+      "id": 19,
+      "text": "Walking in the park",
+      "date": "2021-08-26",
+      "assigned": true,
+      "assignedTo": "Maybe Later",
+      "priority": 2
+    },
+    {
+      "id": 20,
+      "text": "DISHES",
+      "date": "2021-08-25",
+      "assigned": true,
+      "assignedTo": "Hei God",
+      "priority": 4
+    },
+    {
+      "id": 21,
+      "text": "Jogging",
+      "date": "2021-08-27",
+      "assigned": true,
+      "assignedTo": "omo",
+      "priority": 3
+    },
+    {
+      "id": 22,
+      "text": "Walking in the park",
+      "date": "2021-08-26",
+      "assigned": true,
+      "assignedTo": "Maybe Later",
+      "priority": 2
+    },
+    {
+      "id": 23,
+      "text": "DISHES",
+      "date": "2021-08-25",
+      "assigned": true,
+      "assignedTo": "Hei God",
+      "priority": 4
+    },
+    {
+      "id": 24,
+      "text": "Jogging",
+      "date": "2021-08-27",
+      "assigned": true,
+      "assignedTo": "omo",
+      "priority": 3
+    },
+    {
+      "id": 25,
+      "text": "Walking in the park",
+      "date": "2021-08-26",
+      "assigned": true,
+      "assignedTo": "Maybe Later",
+      "priority": 2
+    },
+    {
+      "id": 26,
+      "text": "DISHES",
+      "date": "2021-08-25",
+      "assigned": true,
+      "assignedTo": "Hei God",
+      "priority": 4
+    },
+    {
+      "id": 27,
+      "text": "Jogging",
+      "date": "2021-08-27",
+      "assigned": true,
+      "assignedTo": "omo",
+      "priority": 3
+    },
+    {
+      "id": 28,
+      "text": "Walking in the park",
+      "date": "2021-08-26",
+      "assigned": true,
+      "assignedTo": "Maybe Later",
+      "priority": 2
+    },
+    {
+      "id": 29,
+      "text": "DISHES",
+      "date": "2021-08-25",
+      "assigned": true,
+      "assignedTo": "Hei God",
+      "priority": 4
+    },
+    {
+      "id": 30,
+      "text": "Jogging",
+      "date": "2021-08-27",
+      "assigned": true,
+      "assignedTo": "omo",
+      "priority": 3
+    },
+    {
+      "id": 1630257754006,
+      "text": "Qwerty12345",
+      "date": "2021-09-02",
+      "assigned": true,
+      "assignedTo": "Shebi Time Still Dey",
+      "priority": 2
+    },
+    {
+      "id": 1630257874712,
+      "text": "Qwerty12345",
+      "date": "2021-09-02",
+      "assigned": true,
+      "assignedTo": "Shebi Time Still Dey",
+      "priority": 2
+    },
+    {
+      "id": 1630333510128,
+      "text": "Adam & Eve",
+      "date": "2021-08-30",
+      "assigned": true,
+      "assignedTo": "Hei God",
+      "priority": 4
+    },
+    {
+      "id": 1630333630909,
+      "text": "2123",
+      "date": "2021-08-30",
+      "assigned": false,
+      "assignedTo": "omo",
+      "priority": 3
+    }
+  ],
+  "deleted": [
+    {
+      "id": 6,
+      "text": "Jogging",
+      "date": "2021-08-27",
+      "assigned": true,
+      "assignedTo": "omo",
+      "priority": 3
+    },
+    {
+      "id": 7,
+      "text": "Walking in the park",
+      "date": "2021-08-26",
+      "assigned": true,
+      "assignedTo": "Maybe Later",
+      "priority": 2
+    },
+    {
+      "id": 2,
+      "text": "DISHES",
+      "date": "2021-08-25",
+      "assigned": true,
+      "assignedTo": "Hei God",
+      "priority": 4
+    }
+  ]
+}
